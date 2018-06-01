@@ -1,0 +1,14 @@
+/* Styles go here */
+
+.card-body {
+ padding: 10px 0; 
+}
+
+.colapse-info {
+  font-size: 30px;
+  float: right;
+}
+
+.clear-fix {
+  clear: both;
+}
