@@ -1,7 +1,10 @@
 // Code goes here
+/* global $ */
 
 (function() {
-  
+
+    'use strict';
+
     angular.module('app', [])
           .controller('mainCtrl', function ($scope) {
       $scope.message = 'Hello Plunker!';

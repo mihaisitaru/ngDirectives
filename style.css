@@ -1,23 +1,21 @@
 /* Styles go here */
-
-.btn {
-    cursor: pointer;
+.card-header .card-title {
+  margin-top: 0.65em;
 }
-
-.card-title {
-    margin-top: 0.65em;
+.card-header .card-body {
+  padding: 10px 0;
 }
-
-.card-body {
-    padding: 10px 0;
+.card-header .colapse-info {
+  font-size: 30px;
+  float: right;
+  cursor: pointer;
 }
-
-.colapse-info {
-    font-size: 30px;
-    float: right;
-    cursor: pointer;
+.card-header .clear-fix {
+  clear: both;
 }
-
-.clear-fix {
-    clear: both;
+.card-header .btn {
+  cursor: pointer;
+}
+.card-header .btn-success {
+  background-color: black;
 }
