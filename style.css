@@ -1,14 +1,23 @@
 /* Styles go here */
 
+.btn {
+    cursor: pointer;
+}
+
+.card-title {
+    margin-top: 0.65em;
+}
+
 .card-body {
- padding: 10px 0; 
+    padding: 10px 0;
 }
 
 .colapse-info {
-  font-size: 30px;
-  float: right;
+    font-size: 30px;
+    float: right;
+    cursor: pointer;
 }
 
 .clear-fix {
-  clear: both;
+    clear: both;
 }
